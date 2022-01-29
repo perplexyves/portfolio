@@ -1,0 +1,23 @@
+{
+  "name": "nots.js",
+  "version": "1.0.0",
+  "description": "Come back later to find out!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test available. Come back later!\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perplexyves/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "portfolio.js"
+  ],
+  "author": "Yves Daaboul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perplexyves/portfolio/issues"
+  },
+  "homepage": "https://github.com/perplexyves/portfolio#readme"
+}
